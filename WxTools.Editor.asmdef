@@ -1,6 +1,6 @@
 {
     "name": "WxTools.Editor",
-    "rootNamespace": " WxTools",
+    "rootNamespace": " WxTools.IO",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
