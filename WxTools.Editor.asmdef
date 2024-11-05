@@ -1,9 +1,7 @@
 {
     "name": "WxTools.Editor",
-    "rootNamespace": " WxTools.Editor",
-    "references": [
-        "GUID:c6c47e619399dd2438291c373d1446a6"
-    ],
+    "rootNamespace": " WxTools",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
