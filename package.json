@@ -1,0 +1,11 @@
+{
+	"name": "com.jonassvegland.wxtools-editor",
+	"version": "1.0.0",
+	"displayName": "WxTools Editor",
+	"description": "Tools for Editor.",
+	"unity": "2022.3",
+	"author": {
+		"name": "Jonas Svegland",
+		"ulr": ""
+	}
+}
